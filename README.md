@@ -1,1 +1,0 @@
-# bootstrap-day1
